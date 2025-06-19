@@ -4,6 +4,7 @@
   "description": "Next.js tutorial project",
   "main": "src/index.html",
   "scripts": {
+    "dev": "next dev",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
@@ -17,5 +18,10 @@
     "tutorial"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.3.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
