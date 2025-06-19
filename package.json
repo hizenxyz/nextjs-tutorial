@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-tutorial",
+  "version": "1.0.0",
+  "description": "Next.js tutorial project",
+  "main": "src/index.html",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^10.1.5",
+    "prettier": "^3.5.3"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "MIT"
+}
